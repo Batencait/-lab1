@@ -1,8 +1,10 @@
-#include "pch.h"
-#include <iostream>
-#include <cstdlib>
-#include <cstring>
-using namespace std;
+#include "pch.h" 
+#include <iostream> 
+#include <cstdlib>   
+#include <cstring> 
+	
+using namespace std; 
+	
 
 setlocale(LC_ALL, "rus");
 
