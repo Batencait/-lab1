@@ -1,4 +1,4 @@
- #include "pch.h"
+#include "pch.h"
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
@@ -7,6 +7,7 @@ using namespace std;
 setlocale(LC_ALL, "rus");
 
 struct film {
+	
 	string moviename;
 	float  data;
 	float  sessiontime;
